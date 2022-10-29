@@ -112,4 +112,6 @@ class GetRideView extends GetView<GetRideController> {
       child: Center(child: SvgPicture.asset(usersvg)),
     );
   }
+
+  // git remote set-url origin https://github.com/hueht21/FStackRider.git
 }
